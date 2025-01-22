@@ -1,0 +1,2 @@
+- finish installation https://docs.flutter.dev/get-started/install/macos/mobile-ios
+- finish setup https://pub.dev/packages/sensors_plus
